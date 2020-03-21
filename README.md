@@ -16,7 +16,7 @@ Link para jugar https://fwxzxh.github.io/Bullet-Hell-graf/
 Para una mejor experiencia la banda sonora del juego es https://www.youtube.com/watch?v=nNUrFwllEwE
 
 Integrantes:
-* Mejia Castro Jorge David Elihu **estilo y prgog**
+* Mejia Castro Jorge David Elihu **estilo y progamación**
 * Itzajana Pacheco Osuna **diseño y mecanicas**
 * Dario Hernandez Martinez **diseño, mecanicas y estilo**
 
