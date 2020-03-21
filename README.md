@@ -10,7 +10,7 @@ En este videojuego cuenta la presicion de tus dedos, tu concentracioón y tu pac
 Link para jugar https://fwxzxh.github.io/Bullet-Hell-graf/
 
 ## BUGS
-* El motor del juego esta algo bugueada **(bastante)** asi que pueden ocurrir cosas *"extrañas"* mientras se juega el bug mas recurrente es con la musica **((puede))** que la musica no inicie al iniciar el juego, eso se arregla solo mientras se juega pero no hay manera de saber cuando y como iniciara. 
+* El motor del juego esta algo bugueado **(bastante)** asi que pueden ocurrir cosas *"extrañas"* mientras se juega el bug mas recurrente es con la musica **((puede))** que la musica no inicie al iniciar el juego, eso se arregla solo mientras se juega pero no hay manera de saber cuando y como iniciara. 
 * Si el juego no carga y da un error 404 con el link es necesario dar **F5** debido a que el motor de construct tarda en agarrar el pedo.
 
 Para una mejor experiencia la banda sonora del juego es https://www.youtube.com/watch?v=nNUrFwllEwE
